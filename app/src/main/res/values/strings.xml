@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimationApp</string>
+    <string name="rotate_me">Rotate Me</string>
+    <string name="zoom_me">Zoom Me</string>
+    <string name="bounce_me">Bounce me</string>
+    <string name="blink_me">Blink Me</string>
+</resources>
